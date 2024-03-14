@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Steakhouse-Cardinal-GithubPages/static/css/main.2c576b2b.css",
+    "main.js": "/Steakhouse-Cardinal-GithubPages/static/js/main.03bf93f9.js",
+    "static/js/787.e5ba5830.chunk.js": "/Steakhouse-Cardinal-GithubPages/static/js/787.e5ba5830.chunk.js",
+    "static/media/diningtable.png": "/Steakhouse-Cardinal-GithubPages/static/media/diningtable.f1c704ce765a4e39c4aa.png",
+    "static/media/interior.png": "/Steakhouse-Cardinal-GithubPages/static/media/interior.020006f8c00698e79496.png",
+    "static/media/steak3.png": "/Steakhouse-Cardinal-GithubPages/static/media/steak3.e4917051147663dc5c59.png",
+    "static/media/exterior2.png": "/Steakhouse-Cardinal-GithubPages/static/media/exterior2.f9bc99d5fd72bb108651.png",
+    "static/media/exterior1.png": "/Steakhouse-Cardinal-GithubPages/static/media/exterior1.e6fb46dcac5b68aa7e32.png",
+    "static/media/steak1.png": "/Steakhouse-Cardinal-GithubPages/static/media/steak1.bd5a46b2ec6039b8d78c.png",
+    "static/media/steak_bw.png": "/Steakhouse-Cardinal-GithubPages/static/media/steak_bw.75a03233db71ea27d801.png",
+    "static/media/fireplace.png": "/Steakhouse-Cardinal-GithubPages/static/media/fireplace.00340a6378450a5aedfb.png",
+    "static/media/wine.png": "/Steakhouse-Cardinal-GithubPages/static/media/wine.3738b51cfbcf77587a06.png",
+    "static/media/wine_bw.png": "/Steakhouse-Cardinal-GithubPages/static/media/wine_bw.f3f335ee078da58a9e5e.png",
+    "static/media/fireplace_bw.png": "/Steakhouse-Cardinal-GithubPages/static/media/fireplace_bw.89f227606fbd70ad9653.png",
+    "static/media/logo1.svg": "/Steakhouse-Cardinal-GithubPages/static/media/logo1.4af507144c09236bb16095955d64c04b.svg",
+    "static/media/logo1.png": "/Steakhouse-Cardinal-GithubPages/static/media/logo1.14d06360b30504f46adb.png",
+    "static/media/GreatVibes-Regular.ttf": "/Steakhouse-Cardinal-GithubPages/static/media/GreatVibes-Regular.6d246c3b51d7eb58b13a.ttf",
+    "static/media/CentraNo2-Bold.ttf": "/Steakhouse-Cardinal-GithubPages/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Steakhouse-Cardinal-GithubPages/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Steakhouse-Cardinal-GithubPages/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Cardinal_Handwriting.svg": "/Steakhouse-Cardinal-GithubPages/static/media/Cardinal_Handwriting.062c47602782b8b9972bc6e0798869e0.svg",
+    "static/media/Steakhouse Cardinal Small.svg": "/Steakhouse-Cardinal-GithubPages/static/media/Steakhouse Cardinal Small.6c72c000a094d098e064dc6f9c94a530.svg",
+    "static/media/nav-icon3.svg": "/Steakhouse-Cardinal-GithubPages/static/media/nav-icon3.5174eee0ab2d5bc23015b9e7c51788a8.svg",
+    "index.html": "/Steakhouse-Cardinal-GithubPages/index.html",
+    "static/media/nav-icon1.svg": "/Steakhouse-Cardinal-GithubPages/static/media/nav-icon1.4b9e640d7c58a3adca4da3386534b132.svg",
+    "static/media/nav-icon2.svg": "/Steakhouse-Cardinal-GithubPages/static/media/nav-icon2.6cb7f0198bfb19b793cc7efe4040fc33.svg",
+    "main.2c576b2b.css.map": "/Steakhouse-Cardinal-GithubPages/static/css/main.2c576b2b.css.map",
+    "main.03bf93f9.js.map": "/Steakhouse-Cardinal-GithubPages/static/js/main.03bf93f9.js.map",
+    "787.e5ba5830.chunk.js.map": "/Steakhouse-Cardinal-GithubPages/static/js/787.e5ba5830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c576b2b.css",
+    "static/js/main.03bf93f9.js"
+  ]
+}
