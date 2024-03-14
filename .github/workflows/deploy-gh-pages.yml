@@ -45,6 +45,7 @@ jobs:
         run: npm ci && npm run build
         env:
           PUBLIC_URL: /Steakhouse-Cardinal-GithubPages
+          CI: false
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v1
