@@ -12,7 +12,7 @@ export default function WithSplashScreen() {
         type: "scenario-sync",
         duration: 120,
         start: "autostart",
-        // animTimingFunction: Vivus.EASE,
+        animTimingFunction: Vivus.EASE,
       },
       () => {
         setTimeout(() => {
