@@ -6,7 +6,7 @@ export default function WithSplashScreen() {
   const [isVisible, setVisible] = useState(true);
 
   useEffect(() => {
-    const vivusAnimation = new Vivus(
+    new Vivus(
       "move",
       {
         type: "scenario-sync",
@@ -25,11 +25,6 @@ export default function WithSplashScreen() {
         }, 1000);
       }
     );
-    return () => {
-      if (vivusAnimation) {
-        vivusAnimation.stop();
-      }
-    };
   }, []);
 
   if (!isVisible) {
