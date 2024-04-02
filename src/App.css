@@ -668,7 +668,7 @@ span.navbar-text {
     font-family: GreatVibes;
     text-align: center;
     font-weight: 400;
-    padding-bottom: 1rem;
+    padding-bottom: 0;
   }
 
   .aboutus-text {
