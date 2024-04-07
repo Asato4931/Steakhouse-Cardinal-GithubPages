@@ -33,8 +33,9 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 75px;
+  scroll-padding-top: 200px;
   overflow-x: hidden;
+  max-width:100%;
 }
 
 body {
