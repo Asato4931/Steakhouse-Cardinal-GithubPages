@@ -33,7 +33,7 @@ export default function WithSplashScreen() {
 
   return (
     <div className="splash-screen">
-      <svg viewBox="0 0 1792 1024" id="move">
+      <svg viewBox="0 0 1792 1024" id="move" width="100%">
         <defs>
           <mask id="clipMask">
             <g id="mask">
