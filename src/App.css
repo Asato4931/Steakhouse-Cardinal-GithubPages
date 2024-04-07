@@ -787,7 +787,7 @@ span.navbar-text {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate3d(-50%, -50%, 0);
   }
 
   .menu-button:hover img:nth-child(2) {
@@ -848,7 +848,7 @@ span.navbar-text {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate3d(-50%, -50%, 0);
   }
 
   .menu-button:hover img:nth-child(2) {
@@ -959,7 +959,7 @@ span.navbar-text {
     width: 80%;
     height: 80%;
 
-    transform: translate(10%, 25%);
+    transform: translate3d(10%, 25%, 0);
   }
 }
 @media screen and (min-width: 800px) {
@@ -1077,7 +1077,7 @@ span.navbar-text {
     height: 90%;
 
     padding-bottom: 5rem;
-    transform: translate(5%, 0);
+    transform: translate3d(5%, 0 , 0);
   }
 }
 
