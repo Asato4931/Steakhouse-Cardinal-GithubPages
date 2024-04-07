@@ -7,14 +7,15 @@ import "animate.css";
 
 export default function AboutUs() {
   const myRef = useRef();
-  const [isElementVisible, setisElementVisible] = useState();
+  const [isElementVisible, setisElementVisible] = useState(false);
   useEffect(() => {
     const observer = new IntersectionObserver((entries) => {
       const entry = entries[0];
       setisElementVisible(entry.isIntersecting);
     });
     observer.observe(myRef.current);
-  });
+    return () => observer.disconnect();
+  }, []);
   return (
     <section className="aboutus" id="aboutus">
       <div class="container">
