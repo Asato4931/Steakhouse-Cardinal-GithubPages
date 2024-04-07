@@ -16,15 +16,19 @@ import "animate.css";
 
 export default function Menu() {
   const myRef = useRef();
-  const [isElementVisible, setisElementVisible] = useState();
-  useEffect(() => {
-    const observer = new IntersectionObserver((entries) => {
-      const entry = entries[0];
 
-      setisElementVisible(entry.isIntersecting);
-    });
+  const [isElementVisible, setisElementVisible] = useState(false);
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const entry = entries[0];
+        setisElementVisible(entry.intersectionRatio >= 0.05);
+      },
+      { threshold: [0.05] }
+    );
     observer.observe(myRef.current);
-  });
+    return () => observer.disconnect();
+  }, []);
   return (
     <section className="menu" id="menu" ref={myRef}>
       <div class="container">
